@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SkiingPickle
 - 👀 I’m interested in the universe
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently studying applied engineering sciences with a concentration in computer science
 - 💞️ I’m looking to collaborate on expaanding knowledge, network, and skills
 - 📫 How to reach me meyerbe5@msu.edu
 
