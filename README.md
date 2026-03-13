@@ -32,7 +32,7 @@
 ```
 skiing
 hiking
-food obsessive
+food (big eater)
 gym
 ```
 
