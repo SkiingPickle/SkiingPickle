@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header -->
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEXRUi4Ack-4A/profile-displaybackgroundimage-shrink_350_1400/B56ZrRPPfKIcAY-/0/1764447031234?e=1775088000&v=beta&t=ivJhjytCNMDGHlJ3x51GBKKdJO0VwD1wUv6ZoUgBC3Q" width="100%"/>
+<img src="https://pub-45159bfab89d43dd82d2993519e02342.r2.dev/Screenshot%202026-04-06%20at%201.07.33%E2%80%AFPM.png" width="100%"/>
 
 </div>
 
